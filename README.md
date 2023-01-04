@@ -29,7 +29,9 @@ I am a Senior Data Scientist with expertise in designing, developing and deployi
 
 * Interested in devising solutions for challenging tasks, learning and applying new technologies and tools 
 
-* Obsession with quality and attention to detail • An enthusiastic team player with a can-do attitude and a strong user focus 
+* Obsession with quality and attention to detail 
+
+* An enthusiastic team player with a can-do attitude and a strong user focus 
 
 * Ability to document, explain and present complex ideas.
 
