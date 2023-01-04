@@ -62,7 +62,7 @@ I am a Senior Data Scientist with expertise in designing, developing and deployi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/3ahmood" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/3ahmood" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<!--
 ### Badges
 
 <b>Top Repositories</b>
@@ -72,3 +72,4 @@ I am a Senior Data Scientist with expertise in designing, developing and deployi
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/3ahmood/Human-Activity-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=3ahmood&repo=Human-Activity-Detection&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/3ahmood/Netflix-Prize" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=3ahmood&repo=Netflix-Prize&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+-->
