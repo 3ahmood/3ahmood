@@ -18,12 +18,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 
-I am a Lead Data Scientist with expertise in designing, developing and deploying Machine Learning and Data Science solutions for data driven businesses.
+I am a Lead Data Scientist with expertise in designing, developing and deploying AI, Machine Learning and Data Science solutions for data driven businesses.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-* A result-focused Lead Data Scientist with 9 years of experience developing robust code and designing solutions for high-volume businesses 
+* A result-focused Lead Data Scientist with 10 years of experience developing robust code and designing solutions for high-volume businesses 
 
 * Currently working at Publicis Groupe on Machine Learning use cases and independent case studies 
 
