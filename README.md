@@ -44,23 +44,25 @@ I am an AI Architect with expertise in designing, developing and deploying AI, M
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="36" height="36" alt="OpenAI" /></a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" width="36" height="36" alt="Ollama" /></a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" width="36" height="36" alt="Gemini" /></a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/anthropic.svg" width="36" height="36" alt="Anthropic" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" width="36" height="36" alt="Deepseek" /></a>
+<a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="36" height="36" alt="OpenAI" /></a>
+<a href="https://www.gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" width="36" height="36" alt="Gemini" /></a>
+<a href="https://www.ollama.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" width="36" height="36" alt="Ollama" /></a>
+<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/anthropic.svg" width="36" height="36" alt="Anthropic" /></a>
+<a href="https://www.deepseek.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" width="36" height="36" alt="Deepseek" /></a>
+<a href="https://www.hugginfface.co/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/huggingface-color.svg" width="36" height="36" alt="HuggingFace" /></a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langchain-color.svg" width="36" height="36" alt="LangChain" /></a>
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langgraph-color.svg" width="36" height="36" alt="LangGraph" /></a>
 <a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langsmith-color.svg" width="36" height="36" alt="LangSmith" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/crewai-color.svg" width="36" height="36" alt="CrewAI" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/azureai-color.svg" width="36" height="36" alt="Azure" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bedrock-color.svg" width="36" height="36" alt="Bedrock" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/groq.svg" width="36" height="36" alt="Groq" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" width="36" height="36" alt="Mistral" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/docker-color.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/kubernetes-color.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/fastapi-color.svg" width="36" height="36" alt="FastAPI" /></a>
-<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/streamlit-color.svg" width="36" height="36" alt="Streamlit" /></a>
+<a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/crewai-color.svg" width="36" height="36" alt="CrewAI" /></a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/dbrx-color.png" width="36" height="36" alt="DataBricks" /></a>
+<a href="https://ai.azure.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/azureai-color.svg" width="36" height="36" alt="Azure" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bedrock-color.svg" width="36" height="36" alt="Bedrock" /></a>
+<a href="https://www.groq.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/groq.svg" width="36" height="36" alt="Groq" /></a>
+<a href="https://www.mistral.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" width="36" height="36" alt="Mistral" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://www.stramlit.io/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="36" height="36" alt="Streamlit" /></a>
 </p>
 
 
