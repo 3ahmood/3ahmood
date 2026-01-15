@@ -23,9 +23,9 @@ I am a Lead Data Scientist with expertise in designing, developing and deploying
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-* A result-focused Lead Data Scientist with 10 years of experience developing robust code and designing solutions for high-volume businesses 
+* A result-focused Lead Data Scientist with 12 years of experience developing robust code and designing solutions for high-volume businesses 
 
-* Currently working at Publicis Groupe on Machine Learning use cases and independent case studies 
+* Currently working at Fractal Analytics on GenAI, NLP & Machine Learning use cases and independent case studies 
 
 * Interested in devising solutions for challenging tasks, learning and applying new technologies and tools 
 
@@ -37,7 +37,7 @@ I am a Lead Data Scientist with expertise in designing, developing and deploying
 
 * 🌍  I'm based in India
 
-* 🤝  I'm open to collaborating on Natural Language Processing problems
+* 🤝  I'm open to collaborating on GenAI & Natural Language Processing problems
 
 ### Skills
 
