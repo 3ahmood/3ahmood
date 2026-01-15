@@ -18,12 +18,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 
-I am a Lead Data Scientist with expertise in designing, developing and deploying AI, Machine Learning and Data Science solutions for data driven businesses.
+I am an AI Architect with expertise in designing, developing and deploying AI, Machine Learning and Data Science solutions for data driven businesses.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-* A result-focused Lead Data Scientist with 12 years of experience developing robust code and designing solutions for high-volume businesses 
+* A result-focused AI Architect with 12 years of experience developing robust code and designing solutions for high-volume businesses 
 
 * Currently working at Fractal Analytics on GenAI, NLP & Machine Learning use cases and independent case studies 
 
@@ -44,18 +44,23 @@ I am a Lead Data Scientist with expertise in designing, developing and deploying
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="36" height="36" alt="OpenAI" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" width="36" height="36" alt="Ollama" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" width="36" height="36" alt="Gemini" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/anthropic.svg" width="36" height="36" alt="Anthropic" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" width="36" height="36" alt="Deepseek" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langchain-color.svg" width="36" height="36" alt="LangChain" /></a>
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langgraph-color.svg" width="36" height="36" alt="LangGraph" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langsmith-color.svg" width="36" height="36" alt="LangSmith" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/crewai-color.svg" width="36" height="36" alt="CrewAI" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/azureai-color.svg" width="36" height="36" alt="Azure" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bedrock-color.svg" width="36" height="36" alt="Bedrock" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/groq.svg" width="36" height="36" alt="Groq" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" width="36" height="36" alt="Mistral" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/docker-color.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/kubernetes-color.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/fastapi-color.svg" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://smith.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/streamlit-color.svg" width="36" height="36" alt="Streamlit" /></a>
 </p>
 
 
