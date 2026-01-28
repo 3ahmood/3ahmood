@@ -23,7 +23,7 @@ I am an AI Architect with expertise in designing, developing and deploying AI, M
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-* A result-focused AI Architect with 12 years of experience developing robust code and designing solutions for high-volume businesses 
+* A result-focused AI Architect with 12 years of experience developing robust code and designing AI solutions for high-volume businesses 
 
 * Currently working at Fractal Analytics on GenAI, NLP & Machine Learning use cases and independent case studies 
 
